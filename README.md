@@ -10,7 +10,7 @@ CCSS covers a list of 10 security aspects of an information system that stores, 
 
 These 10 aspects are organized into 2 domains that help structure the guidelines. A summary of the standard can be seen in the below example which depicts sample results after auditing a "Level I" system. You'll note that even though there are some aspects with scores in the Level II and Level III range, the system is a Level I system since that is the lowest consistent grade across all aspects:
  
-![img](https://cryptoconsortium.github.io/CCSS/images/CCSS Matrix.png)
+![alt tag](https://github.com/CryptoConsortium/CCSS/blob/master/images/CCSS%20Matrix.png)
 
 # Levels
 
@@ -31,7 +31,7 @@ An information system that has achieved Level III security has proven by way of 
 
 # This Repository
 
-This repository is meant to operate as a collaborative document. Wherever possible, the details of the standard have been separated from the design elements to allow for both to easily evolve independantly. Your contirbution to either is encouraged. 
+This repository is meant to operate as a collaborative document. Wherever possible, the details of the standard have been separated from the design elements to allow for both to easily evolve independently. Your contribution to either is encouraged. 
 
 See the _data directory for discussion on the standard.
 
